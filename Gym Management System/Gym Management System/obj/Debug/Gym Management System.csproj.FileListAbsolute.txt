@@ -1,0 +1,126 @@
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.manifest
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.application
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Delete_Member.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login_Page.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.New_Member.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Search_Member.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe.manifest
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.application
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Payment.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Buffers.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Memory.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Text.Json.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.ValueTuple.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Buffers.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Memory.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Text.Json.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.ValueTuple.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Expire_Date.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Generate_QR_code.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\AForge.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\AForge.Video.DirectShow.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\AForge.Video.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\AForge.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\AForge.Video.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\AForge.Video.DirectShow.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\zxing.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\zxing.presentation.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\zxing.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\zxing.presentation.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Attendance.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\SixLabors.ImageSharp.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\SixLabors.ImageSharp.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\QRCoder.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\Zen.Barcode.Core.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.View_attendance.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.dashboard.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Whatsapp_message.resources
+D:\Visual studio\source\repos\Gym Management System\Gym Management System\bin\Debug\WhatsAppApi.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.manifest
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\Gym Management System.application
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\AForge.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\AForge.Video.DirectShow.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\AForge.Video.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\QRCoder.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\SixLabors.ImageSharp.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Buffers.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Memory.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Text.Encodings.Web.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Text.Json.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.ValueTuple.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\WhatsAppApi.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\Zen.Barcode.Core.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\zxing.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\zxing.presentation.dll
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\AForge.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\AForge.Video.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\AForge.Video.DirectShow.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\SixLabors.ImageSharp.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Buffers.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Memory.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Text.Encodings.Web.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Text.Json.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\System.ValueTuple.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\zxing.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\bin\Debug\zxing.presentation.xml
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Attendance.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.dashboard.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Delete_Member.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Expire_Date.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Generate_QR_code.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Main.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login_Page.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.New_Member.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Payment.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Search_Member.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.View_attendance.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Whatsapp_message.resources
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe.manifest
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.application
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+D:\Mind Ai\projects\Gym Management System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
